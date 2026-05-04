@@ -1,2 +1,5 @@
 .venv/
 *.pyc
+src/docs_html_konwerter.egg-info/
+tests/tmpoutput/
+tests/.DS_Store
